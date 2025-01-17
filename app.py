@@ -10,7 +10,7 @@ ia = IMDb()
 
 # Streamlit UI
 st.title("🎥 Similar Movie Recommendation Assistant")
-st.subheader("Step 1: Enter API Key")
+st.subheader("Enter API Key :")
 
 # User input for API key
 groq_api_key = st.text_input("Enter your Groq API Key", type="password")
