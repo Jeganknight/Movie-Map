@@ -1,0 +1,6 @@
+streamli
+langchain
+langchain_groq
+python-dotenv
+imdbpy
+requests
